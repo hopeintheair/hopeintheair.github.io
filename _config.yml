@@ -123,3 +123,12 @@ exclude:
   - "*.log"
   - "*.ipynb"
   - "python_notebooks/*"
+  - vendor/
+  - vendor/**       # 중첩 폴더까지 확실히 제외
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - tmp/
+  - log/
