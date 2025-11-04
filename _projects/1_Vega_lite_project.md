@@ -1,7 +1,7 @@
 ---
 name: HW5 - Licenses in Illinois
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/hwplot.png
 description:  HW5.1. Submit Jekyll webpage link !
 custom_js:
   - vega.min
